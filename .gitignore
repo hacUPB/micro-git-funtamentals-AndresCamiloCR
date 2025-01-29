@@ -3,6 +3,7 @@
 
 # Archivos ejecutables generados
 *.out
+*.exe
 
 # Archivos de bibliotecas
 *.a
