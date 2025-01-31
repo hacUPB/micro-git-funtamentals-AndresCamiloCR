@@ -39,6 +39,6 @@ int main(void) {
             GPIOA->ODR &= ~GPIO_ODR_OD5; // Apagar el LED (PA5)
         }
 
-        delay_ms(50); // Retardo para evitar rebotes
+        delay_ms(50); // Retardo para evitar rebotess
     }
 }
