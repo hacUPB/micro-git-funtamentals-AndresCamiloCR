@@ -10,6 +10,6 @@ Inicializar Git : git init
 Verificar el estado del repositorio: git status
 #### Gestión de archivos en el repositorio
 Agregar archivos: git add archivo.txt  
-Confirmar cambios en el repositorio: git commit -m   "Descripción del cambio"  
+Confirmar cambios en el repositorio: git commit -m   "Descripción del cambio realizado"  
 ver el historial de cambios: git log  
 Revertir cambios: git checkout -- archivo.txt  
