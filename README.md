@@ -18,4 +18,3 @@ Cuando se clona el repositorio, se puede ingresar desde explorador de archivos a
 | uso_consola.md | [Uso de la Consola](docs/uso_consola.md) |
 | repositorio_local.md | [Repositorio Local](docs/repositorio_local.md) |
 | repositorio_remoto.md | [Repositorio Remoto](docs/repositorio_remoto.md) |
-
